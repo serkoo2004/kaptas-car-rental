@@ -1,0 +1,16 @@
+node_modules
+.next
+.vercel
+dist
+coverage
+*.tsbuildinfo
+public/seko-front/
+.env
+.env.local
+.env.*.local
+*.log
+prisma/dev.db
+storage/vehicle-images/*
+!storage/vehicle-images/.gitkeep
+storage/database-backups/*
+!storage/database-backups/.gitkeep
