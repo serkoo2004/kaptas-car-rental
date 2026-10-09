@@ -48,10 +48,6 @@ npm run dev -- --hostname 127.0.0.1 --port 3000
 
 Seed hesapları yalnızca yerel geliştirme içindir. Production ortamında `npm run db:seed` çalıştırılmaz.
 
-## TürkTicaret Production
-
-Linux cPanel Node.js App ve MySQL kurulumu için [deployment rehberini](deploy/turkticaret/README.md) izleyin.
-
 ## PostgreSQL'den MySQL'e Veri Aktarimi
 
 Saglayici degisikliginden once mevcut veriyi yedekleyin:
